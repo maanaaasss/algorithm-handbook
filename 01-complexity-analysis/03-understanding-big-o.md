@@ -206,21 +206,4 @@ What is the Big O?
 
 **Q5:** In your own words: why do we ignore constants and smaller terms in Big O?
 
----
 
-## Progress
-
-```
-Phase 1: Complexity Analysis
-
-Phase 1.1: Why Complexity Analysis Exists - Done
-Phase 1.2: Thinking in Growth - Done
-Phase 1.3: Big O Notation (In Progress)
-  ✓ Growth patterns
-  ✓ Ignoring constants
-  ✓ Ignoring smaller terms
-  ○ Quiz
-
-Problems Solved: 0
-Patterns Learned: 1
-```

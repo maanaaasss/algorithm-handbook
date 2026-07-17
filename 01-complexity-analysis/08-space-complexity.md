@@ -121,25 +121,4 @@ Sometimes you'll have two solutions:
 
 Neither is automatically better. Part of becoming a strong engineer is recognizing these trade-offs and choosing the right solution for the problem.
 
----
 
-## Progress
-
-```
-Phase 1: Complexity Analysis
-
-1.1 Why Complexity Exists - Done
-1.2 Thinking in Growth - Done
-1.3 Big O - Done
-1.4 Logarithmic Complexity - Done
-1.5 Big Theta (Θ) - Done
-1.6 Big Omega (Ω) - Done
-1.7 Best / Average / Worst Case - Done
-1.8 Space Complexity (In Progress)
-  ✓ What counts as extra space
-  ✓ Constant vs linear space
-  ✓ Common traps
-  ○ Quiz
-
-Problems Solved: 0
-```

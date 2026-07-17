@@ -105,30 +105,4 @@ When someone asks "what's the time complexity?" they're almost always asking for
 
 **Q4:** If an interviewer asks "what's the time complexity?" should you usually answer with Big O or Big Θ?
 
----
 
-## Progress
-
-```
-Phase 1: Complexity Analysis
-
-1.1 Why Complexity Exists - Done
-1.2 Thinking in Growth - Done
-1.3 Big O - Done
-1.4 Logarithmic Complexity - Done
-1.5 Big Theta (Θ) (In Progress)
-  ✓ Upper bound vs exact growth
-  ✓ When O and Θ differ
-  ✓ When to use which
-  ○ Quiz
-
-Patterns Learned:
-  ✓ Count operations
-  ✓ Sequential → Add
-  ✓ Nested → Multiply
-  ✓ Dominant term
-  ✓ Logarithmic growth
-  ✓ Complexity composition
-
-Problems Solved: 0
-```

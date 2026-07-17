@@ -186,28 +186,4 @@ For Q5, analyze the outer loop, analyze the inner loop, then combine them.
 4. Add or multiply accordingly.
 5. Keep the dominant term.
 
----
 
-## Progress
-
-```
-Phase 1: Complexity Analysis
-
-1.1 Why Complexity Exists - Done
-1.2 Thinking in Growth - Done
-1.3 Big O - Done
-1.4 Logarithms & O(log n) (In Progress)
-  ✓ Dividing by 2 repeatedly
-  ✓ Why base doesn't matter
-  ✓ Recognizing the pattern
-  ○ Quiz
-
-Patterns Learned:
-  ✓ Count operations
-  ✓ Sequential loops → Add
-  ✓ Nested loops → Count total iterations
-  ✓ Dominant-term analysis
-  ○ Halving/Doubling → Logarithmic growth
-
-Problems Solved: 0
-```

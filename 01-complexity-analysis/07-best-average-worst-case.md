@@ -100,24 +100,4 @@ When someone asks "what's the time complexity?" answer with worst-case Big O unl
 
 **Q4:** Binary Search, target is the last element in a sorted array of one million elements. Complexity?
 
----
 
-## Progress
-
-```
-Phase 1: Complexity Analysis
-
-1.1 Why Complexity Exists - Done
-1.2 Thinking in Growth - Done
-1.3 Big O - Done
-1.4 Logarithmic Complexity - Done
-1.5 Big Theta (Θ) - Done
-1.6 Big Omega (Ω) - Done
-1.7 Best / Average / Worst Case (In Progress)
-  ✓ Linear search cases
-  ✓ Binary search cases
-  ✓ Why worst case is the default
-  ○ Quiz
-
-Problems Solved: 0
-```
