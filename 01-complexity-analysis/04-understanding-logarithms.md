@@ -178,6 +178,14 @@ for (int i = n; i > 1; i /= 2) {
 
 For Q5, analyze the outer loop, analyze the inner loop, then combine them.
 
+### One final note: from this point on, don't try to memorize answers. Whenever you see code, narrate your thinking:
+
+1. What's the input size?
+2. How many times does each loop run?
+3. Are the loops sequential or nested?
+4. Add or multiply accordingly.
+5. Keep the dominant term.
+
 ---
 
 ## Progress
