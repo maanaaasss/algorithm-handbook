@@ -107,10 +107,10 @@ When an interviewer asks "why is array indexing O(1)?":
 
 **Q1:** Why is array access O(1)?
 
-A. Because arrays are small.
-B. Because elements are stored in contiguous memory and the address can be calculated directly.
-C. Because the CPU searches very fast.
-D. Because arrays are sorted.
+1. Because arrays are small.
+2. Because elements are stored in contiguous memory and the address can be calculated directly.
+3. Because the CPU searches very fast.
+4. Because arrays are sorted.
 
 **Q2:** Base Address = 5000, sizeof(int) = 4. What is the address of arr[5]?
 
