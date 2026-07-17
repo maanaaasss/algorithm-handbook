@@ -1,6 +1,6 @@
 # Algorithm Handbook
 
-A structured guide to Data Structures and Algorithms, covering complexity analysis and array fundamentals with clean explanations and interview-focused practice.
+My journey through Data Structures and Algorithms — from complexity analysis to advanced topics. Each lesson is written in simple language with examples, practice questions, and interview patterns.
 
 ---
 
@@ -29,11 +29,3 @@ A structured guide to Data Structures and Algorithms, covering complexity analys
 | 2.4 | Find Largest Element | [04-find-largest-element.md](02-arrays/04-find-largest-element.md) |
 | 2.5 | Check if Sorted | [05-check-if-sorted.md](02-arrays/05-check-if-sorted.md) |
 | 2.6 | Prefix Sum | [06-prefix-sum.md](02-arrays/06-prefix-sum.md) |
-
----
-
-## How to Use
-
-Start with Phase 1 if you're new to complexity analysis. Each lesson builds on the previous one. Move to Phase 2 once you're comfortable with Big O notation.
-
-Every lesson includes examples, common mistakes, and practice questions designed to build interview-ready thinking.
