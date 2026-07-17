@@ -1,6 +1,6 @@
 # Algorithm Handbook
 
-My journey through Data Structures and Algorithms — from complexity analysis to advanced topics. Each lesson is written in simple language with examples, practice questions, and interview patterns.
+Learning DSA and keeping track of everything along the way.
 
 ---
 
