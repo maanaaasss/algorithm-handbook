@@ -6,21 +6,38 @@ class Node {
         int data;
         Node* next;
 
-    public:
-        Node(int data1, Node* next1) {
-            data = data1;
-            next = next1;
-        }
-    public:
-        Node(int data1) {
-            data = data1;
-            next = nullptr;
+        Node(int newData) {
+            this->data = newData;
+            this->next = nullptr;
         }
 };
 
+void traverseList(Node* head) {
+    if(head == nullptr) {
+        cout<<endl;
+        return;
+    }
+
+    cout << head->data << " ";
+
+    traverseList(head->next);
+}
+
+Node* insertAtFirst(Node* head, int key) {
+    Node* newNode = new Node(key);
+    newNode->next = head;
+    head = newNode;
+
+    return head;
+}
+
 int main() {
-    vector<int> arr = {2,3,4,5};
-    Node n = Node(arr[0]);
-    cout<<n.data;
+    Node* head = new Node(10);
+    head->next = new Node(20);
+    head->next->next = new Node(30);
+    head->next->next->next = new Node(40);
     
+    int key = 10;
+    head = insertAtFirst(head, key);
+    traverseList(head);
 }
