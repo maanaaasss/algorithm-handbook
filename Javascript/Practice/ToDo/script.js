@@ -6,7 +6,7 @@ const taskList = document.getElementById('taskList')
 btn.addEventListener('click', () => {
     const taskName = taskInput.value;
 
-    const listItem = document.createElement('ol');
+    const listItem = document.createElement('li');
 
     const taskSpan = document.createElement('span');
     taskSpan.textContent = taskName;
